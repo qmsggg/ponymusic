@@ -9,9 +9,8 @@
 - [Android开源音乐播放器之在线音乐列表自动加载更多](http://www.jianshu.com/p/576564627c96)
 
 ## 前言
-毕业设计做的项目，答辩完了，就共享出来。
 
-- 项目地址：https://github.com/wangchenyan/ponymusic
+- 项目地址：https://github.com/qmsggg/ponymusic
 - 有问题请提Issues
 - 如果喜欢，欢迎Star！
 
@@ -155,8 +154,7 @@ protected void onDraw(Canvas canvas) {
 ![](https://raw.githubusercontent.com/wangchenyan/ponymusic/master/art/screenshot_06.jpg)
 
 ## 关于作者
-简书：http://www.jianshu.com/users/3231579893ac<br>
-微博：http://weibo.com/wangchenyan1993
+
 
 ## License
 
